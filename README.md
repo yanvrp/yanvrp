@@ -2,7 +2,7 @@
 
 Olá! Sou Yan, um desenvolvedor apaixonado por tecnologia e inovação. Sou recém-formado em Sistemas de Informação e busco uma oportunidade para iniciar minha carreira na área de desenvolvimento e tecnologia.
 
-Durante minha jornada acadêmica, adquiri experiência com diversas tecnologias e estou constantemente aprimorando minhas habilidades, especialmente em desenvolvimento web moderno. Tenho conhecimento em C#, Python, JavaScript, React, além de experiência com bancos de dados SQL Server, MySQL e Firebird.
+Durante minha jornada acadêmica, adquiri experiência com diversas tecnologias e estou constantemente aprimorando minhas habilidades, especialmente em desenvolvimento web moderno. Tenho conhecimento em C#, Python, JavaScript, React, além de contato com bancos de dados SQL Server, MySQL e Firebird.
 
 Sou proativo, gosto de trabalhar em equipe e estou sempre buscando aprender mais.
 
