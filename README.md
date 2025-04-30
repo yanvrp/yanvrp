@@ -1,10 +1,10 @@
 ## Yan Vinícius Rockenback Pereira
 
-Olá! Sou Yan, um desenvolvedor apaixonado por tecnologia e inovação. Sou recém-formado em Sistemas de Informação e busco uma oportunidade para iniciar minha carreira na área de desenvolvimento e tecnologia.
+Olá! Sou Yan. Desenvolvedor com bacharelado em Sistemas de Informação, apaixonado por tecnologia e inovação. Atualmente, trabalho com automações, webhooks e soluções low code em um CRM de vendas e atendimento, contribuindo para a integração de sistemas e a otimização de processos comerciais.
 
-Durante minha jornada acadêmica, adquiri experiência com diversas tecnologias e estou constantemente aprimorando minhas habilidades, especialmente em desenvolvimento web moderno. Tenho conhecimento em C#, Python, JavaScript, React, além de contato com bancos de dados SQL Server, MySQL e Firebird.
+Tenho conhecimento em C#, Python, JavaScript e React, além de experiência com bancos de dados como SQL Server, MySQL e Firebird. Estou sempre em busca de aprimorar minhas habilidades, especialmente em desenvolvimento web moderno.
 
-Sou proativo, gosto de trabalhar em equipe e estou sempre buscando aprender mais.
+Sou proativo, colaborativo e estou sempre disposto a aprender.
 
 ### 🖥️ Linguagens e Tecnologias:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
